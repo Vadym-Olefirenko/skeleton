@@ -1,0 +1,20 @@
+$textColor: #FFFFFF;
+$mainFont: Roboto;
+
+@mixin flexCenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a:hover {
+    text-decoration: none;
+    color: inherit;
+}
+
