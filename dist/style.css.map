@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/scss/app.scss"],"names":[],"mappings":"AAAA;AACA;AACA;AACA,yBAAyB;;AAEzB;AACA;AACA,iBAAiB","file":"style.css","sourcesContent":["* {\n  padding: 0;\n  margin: 0;\n  box-sizing: border-box; }\n\na:hover {\n  text-decoration: none;\n  color: inherit; }\n"],"sourceRoot":""}
